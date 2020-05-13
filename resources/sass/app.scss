@@ -1,0 +1,13 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Lexa - Admin & Dashboard Template
+@import '../../node_modules/metismenu/dist/metisMenu.css';
+@import 'icons.scss';
+@import 'lexa/style.scss';
