@@ -1,6 +1,8 @@
 # Lexa Admin & Dashboard Template in Vuejs + Laravel
 
 ### Lexa
+this is the script I added to the fresh laravel project and vuejs presets in laravel-ui
+
 * app/resources/js/bootstrap.js 
   ```
   require('metismenu');
